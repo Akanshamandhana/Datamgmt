@@ -1,3 +1,3 @@
-Ls - commanad used for lising
+Ls - commanad used for listing
 
 another command is cat
