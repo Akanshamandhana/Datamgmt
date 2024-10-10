@@ -1,3 +1,3 @@
-Ls- COmmand used for listing 
+ls command is used for listing 
 
-More commands to learn CAT
+cat command is used for reading file
