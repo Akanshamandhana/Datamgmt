@@ -2,4 +2,4 @@
 
 
 
-[CLI commands](docs/cli.md)
+[CLI commands](docs/Cli.md)
